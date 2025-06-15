@@ -10,7 +10,6 @@ import br.com.alura.adopet.api.model.Abrigo;
 import br.com.alura.adopet.api.model.Pet;
 import br.com.alura.adopet.api.model.ProbabilidadeAdocao;
 import br.com.alura.adopet.api.model.TipoPet;
-import br.com.alura.adopet.api.service.CalculadoraProbabilidadeAdocao;
 
 class CalculadoraProbabilidadeAdocaoTest {
 
